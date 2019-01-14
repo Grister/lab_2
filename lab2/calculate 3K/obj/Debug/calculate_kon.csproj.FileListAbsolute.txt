@@ -1,0 +1,34 @@
+C:\Users\Никита\source\repos\calculate_kon\bin\Debug\calculate_kon.exe.config
+C:\Users\Никита\source\repos\calculate_kon\bin\Debug\calculate_kon.exe
+C:\Users\Никита\source\repos\calculate_kon\bin\Debug\calculate_kon.pdb
+C:\Users\Никита\source\repos\calculate_kon\obj\Debug\calculate_kon.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\calculate_kon\obj\Debug\calculate_kon.Кулькулятор.resources
+C:\Users\Никита\source\repos\calculate_kon\obj\Debug\calculate_kon.Properties.Resources.resources
+C:\Users\Никита\source\repos\calculate_kon\obj\Debug\calculate_kon.csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\calculate_kon\obj\Debug\calculate_kon.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\calculate_kon\obj\Debug\calculate_kon.exe
+C:\Users\Никита\source\repos\calculate_kon\obj\Debug\calculate_kon.pdb
+C:\Users\PC\Desktop\calculate_kon-master\bin\Debug\calculate_kon.exe.config
+C:\Users\PC\Desktop\calculate_kon-master\bin\Debug\calculate_kon.exe
+C:\Users\PC\Desktop\calculate_kon-master\bin\Debug\calculate_kon.pdb
+C:\Users\PC\Desktop\calculate_kon-master\obj\Debug\calculate_kon.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\calculate_kon-master\obj\Debug\calculate_kon.Properties.Resources.resources
+C:\Users\PC\Desktop\calculate_kon-master\obj\Debug\calculate_kon.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\calculate_kon-master\obj\Debug\calculate_kon.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\calculate_kon-master\obj\Debug\calculate_kon.exe
+C:\Users\PC\Desktop\calculate_kon-master\obj\Debug\calculate_kon.pdb
+C:\Users\PC\Desktop\calculate_kon-master\obj\Debug\calculate_kon.Form2.resources
+C:\Users\PC\Desktop\calculate_kon-master\obj\Debug\calculate_kon.Калькулятор.resources
+C:\Users\PC\Desktop\calculate_kon-master\obj\Debug\calculate_kon.Form3.resources
+C:\Users\PC\Desktop\calculate 3K\bin\Debug\calculate_kon.exe.config
+C:\Users\PC\Desktop\calculate 3K\obj\Debug\calculate_kon.exe
+C:\Users\PC\Desktop\calculate 3K\obj\Debug\calculate_kon.pdb
+C:\Users\PC\Desktop\calculate 3K\bin\Debug\calculate_kon.exe
+C:\Users\PC\Desktop\calculate 3K\bin\Debug\calculate_kon.pdb
+C:\Users\PC\Desktop\calculate 3K\obj\Debug\calculate_kon.Калькулятор.resources
+C:\Users\PC\Desktop\calculate 3K\obj\Debug\calculate_kon.Form2.resources
+C:\Users\PC\Desktop\calculate 3K\obj\Debug\calculate_kon.Form3.resources
+C:\Users\PC\Desktop\calculate 3K\obj\Debug\calculate_kon.Properties.Resources.resources
+C:\Users\PC\Desktop\calculate 3K\obj\Debug\calculate_kon.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\calculate 3K\obj\Debug\calculate_kon.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\calculate 3K\obj\Debug\calculate_kon.csproj.CoreCompileInputs.cache
